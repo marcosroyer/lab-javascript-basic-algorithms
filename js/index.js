@@ -53,7 +53,7 @@ for (let i=0; i < menor; i++){
     }    
 }
 
-//bonus1 - implementação naive, que não considera que não há linhas entre os parágrafos, mas apenas um breakline.
+//bonus1 - implementação naive, que considera que não há linhas entre os parágrafos, mas apenas um breakline.
 const lorem = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae felis bibendum, sagittis neque sed, ultrices justo. Donec metus mauris, viverra porttitor massa at, laoreet aliquet magna. Pellentesque ac justo tortor. Quisque elementum velit ut arcu vulputate volutpat. Sed tincidunt in odio et porttitor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam sit amet lectus porttitor, ultricies velit quis, lacinia tortor. Suspendisse a augue in felis ullamcorper maximus. Integer sed dolor fringilla, cursus libero at, mollis libero.
 Fusce arcu nisi, convallis sit amet porta in, porta in risus. Maecenas eu orci mi. Nullam sollicitudin magna enim, at facilisis diam congue at. Quisque faucibus mauris id turpis iaculis pretium. Ut non accumsan nisi. Mauris purus felis, consectetur nec dolor semper, elementum hendrerit urna. Proin id velit quis sem rhoncus facilisis ut sed nibh.
 Suspendisse in lacus est. Integer scelerisque vulputate turpis quis bibendum. Phasellus placerat ut enim eu gravida. Suspendisse non laoreet ante, a iaculis enim. Morbi imperdiet sapien diam. Maecenas nec urna aliquam, auctor eros sit amet, tempus ante. Nullam quis metus condimentum, blandit mi sed, laoreet mi. Maecenas tincidunt est dui, sit amet maximus leo hendrerit fringilla. Etiam mattis, sem a euismod dignissim, arcu lorem luctus velit, at viverra turpis eros a metus. Aenean eu ipsum aliquam, tincidunt mi non, imperdiet ipsum. Fusce eu fermentum nisi, non efficitur enim.
